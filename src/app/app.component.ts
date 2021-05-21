@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'twitter';
+  tests = ['pikachu', 'bulbasaur', 'youtu', 'merlin', 'mewtoo'];
 }
